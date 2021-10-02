@@ -1,7 +1,7 @@
 # Neovim_Setup_for_Data_Science
 ## Setup Neovim as an IDE to work with R, Python, Julia for Data Science
 * Download Neovim from https://github.com/neovim/neovim.
-* Intall vim-plug(https://github.com/junegunn/vim-plug)
+* Intall vim-plug(https://github.com/junegunn/vim-plug) or simply copy and paste the below commands in your terminal.
 ```
 md ~\AppData\Local\nvim\autoload
 $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
@@ -16,10 +16,10 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 * You can simply download this folder and put it in the path '~/AppData/Local/nvim/plugged' for Windows or '~/.local/share/nvim/site/plugged' for Linux.
 
 # Preview
-## Startup Page
+## Startup Page preview using Stratify
 ![nvim](https://user-images.githubusercontent.com/42490023/135728595-beb8556b-a2aa-4ec4-ba44-f058f591f451.jpg)
-##R file example in Neovim using Nvim-R
-
+## A preview of NERDTree and Nvim-R
+![testR](https://user-images.githubusercontent.com/42490023/135729956-18db7c28-9cd5-40bf-a91a-9662fc091268.jpg)
 
 # Features
 * Active theme is https://github.com/tomasr/molokai.
