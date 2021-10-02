@@ -13,7 +13,7 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 )
 ```
 
-* You can simply download this folder and put it in the path '~/AppData/Local/nvim/plugged' for Windows or '~/.local/share/nvim/site/plugged' for Linux.
+* You can simply download this folder and put it in the path "~/AppData/Local/nvim/plugged" for Windows or "~/.local/share/nvim/site/plugged" for Linux.
 
 # Preview
 ## Startup Page preview using Stratify
