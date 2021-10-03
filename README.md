@@ -25,7 +25,7 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 * Active theme is https://github.com/tomasr/molokai.
 * Custom Startup page with https://github.com/mhinz/vim-startify.
 * Better icons from https://github.com/ryanoasis/vim-devicons.
-* A light and configurable statusline/tabline plugin by https://github.com/itchyny/lightline.vim.
+* A light and configurable statusline/tabline plugin by https://github.com/vim-airline/vim-airline.
 * File Explorer used is https://github.com/preservim/nerdtree.
 * NeoVim Lisp configuration with https://github.com/neovim/nvim-lspconfig.
 * Github integration with https://github.com/tpope/vim-fugitive.
@@ -33,7 +33,6 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 * Julia integration with https://github.com/JuliaEditorSupport/julia-vim.
 * Commenter used is https://github.com/preservim/nerdcommenter.
 * Sysntax highlighting by https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.
-* A plugin to show git status flag in NerdTree https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.
 * command-line file finder with fzf https://github.com/junegunn/fzf.vim.
 * Integration of Neovim LSP client and fzf with https://github.com/junegunn/fzf.vim.
 * Terminal used in the nvim for Python and Julia is https://github.com/kassio/neoterm. 
