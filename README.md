@@ -17,7 +17,7 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
 # Preview
 ## Startup Page preview using Stratify
-
+![nvim](https://user-images.githubusercontent.com/42490023/136620278-e0c54902-a4ad-45ee-acff-68b3b65c7d9f.jpg)
 ## A Preview of Telescope
 ![Screenshot 2021-10-09 013325](https://user-images.githubusercontent.com/42490023/136619002-135efe16-4bbc-40cc-896d-744fb85f1bf9.jpg)
 ## A preview of NERDTree and Nvim-R
