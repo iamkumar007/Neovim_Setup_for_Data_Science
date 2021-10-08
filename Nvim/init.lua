@@ -27,8 +27,8 @@ g['vimtex_view_method'] = 'skim'
 
 -------------------- OPTIONS -------------------------------
 local indent, width = 2, 80
-cmd 'colorscheme molokai'
-g['molokai_terminal_italics'] = 1
+cmd 'colorscheme gruvbox'
+g['gruvbox_terminal_italics'] = 1
 opt('b', 'expandtab', true)               -- Use spaces instead of tabs
 opt('b', 'formatoptions', 'crqnj')        -- Automatic formatting options
 opt('b', 'shiftwidth', indent)            -- Size of an indent
