@@ -19,7 +19,7 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 ## Startup Page preview using alpha-nvim Dashboard
 ![alpha](https://user-images.githubusercontent.com/42490023/136856353-6fbeb6f9-e1d6-412d-9dbe-e43fa3ed8ea3.jpg)
 ## A Preview of Telescope
-![Screenshot 2021-10-09 013325](https://user-images.githubusercontent.com/42490023/136619002-135efe16-4bbc-40cc-896d-744fb85f1bf9.jpg)
+![telescope](https://user-images.githubusercontent.com/42490023/136856548-d185e7fe-4856-43d1-98c3-4addfe8b124c.jpg)
 ## A preview of NERDTree and Nvim-R
 ![testR](https://user-images.githubusercontent.com/42490023/135729956-18db7c28-9cd5-40bf-a91a-9662fc091268.jpg)
 
