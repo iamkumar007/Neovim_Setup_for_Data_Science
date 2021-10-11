@@ -21,7 +21,7 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 ## A Preview of Telescope
 ![telescope](https://user-images.githubusercontent.com/42490023/136856548-d185e7fe-4856-43d1-98c3-4addfe8b124c.jpg)
 ## A preview of NERDTree and Nvim-R
-![testR](https://user-images.githubusercontent.com/42490023/135729956-18db7c28-9cd5-40bf-a91a-9662fc091268.jpg)
+![testR](https://user-images.githubusercontent.com/42490023/136856560-92314d0b-b059-41cb-96de-1cbc181f1285.jpg)
 
 # Features
 * Active theme is https://github.com/tomasr/molokai.
