@@ -16,8 +16,8 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 * You can simply download this folder and put it in the path "c:/Users/username/AppData/Local/nvim/plugged" for Windows or "~/.local/share/nvim/site/plugged" for Linux.
 
 # Preview
-## Startup Page preview using Nvim Dashboard
-![Screenshot 2021-10-09 013254](https://user-images.githubusercontent.com/42490023/136674340-d84f3637-84c4-4d66-a1cf-65b776072e90.jpg)
+## Startup Page preview using alpha-nvim Dashboard
+![alpha](https://user-images.githubusercontent.com/42490023/136856353-6fbeb6f9-e1d6-412d-9dbe-e43fa3ed8ea3.jpg)
 ## A Preview of Telescope
 ![Screenshot 2021-10-09 013325](https://user-images.githubusercontent.com/42490023/136619002-135efe16-4bbc-40cc-896d-744fb85f1bf9.jpg)
 ## A preview of NERDTree and Nvim-R
