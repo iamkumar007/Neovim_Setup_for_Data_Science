@@ -24,8 +24,8 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 ![testR](https://user-images.githubusercontent.com/42490023/136856560-92314d0b-b059-41cb-96de-1cbc181f1285.jpg)
 
 # Features
-* Active theme is https://github.com/tomasr/molokai.
-* Custom Startup page with https://github.com/glepnir/dashboard-nvim.
+* Active theme is https://github.com/morhetz/gruvbox.
+* Custom Startup page with https://github.com/goolord/alpha-nvim.
 * Better icons from https://github.com/ryanoasis/vim-devicons.
 * A light and configurable statusline/tabline plugin by https://github.com/vim-airline/vim-airline.
 * File Explorer used is https://github.com/preservim/nerdtree.
